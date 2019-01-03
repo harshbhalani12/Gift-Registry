@@ -18,7 +18,9 @@ Add/remove items from inventory
 
 Display the items in the inventory
 
-**Technology used:** Java, J2EE, JSP, Servlets, HTML, CSS, JavaScript
+**Technology used:** 
+
+Java, J2EE, JSP, Servlets, HTML, CSS, JavaScript
 
 Database: MySQL
 
