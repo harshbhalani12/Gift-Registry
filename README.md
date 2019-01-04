@@ -1,6 +1,6 @@
 # Gift-Registry
 
-** Description: ** The main aim of the project is to develop a web application that can be used to list and share the the items that users want to buy, so that others can gift them.
+**Description:** The main aim of the project is to develop a web application that can be used to list and share the the items that users want to buy, so that others can gift them.
 
 **Features:**
 
